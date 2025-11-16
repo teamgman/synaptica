@@ -1,0 +1,5 @@
+{
+  "name": "Synaptica",
+  "description": "Synaptica: An AI-powered tool that takes a concept and recursively generates sub-concepts to build a dynamic mind map. Users can explore complex topics by expanding nodes to reveal deeper layers of information.",
+  "requestFramePermissions": []
+}
